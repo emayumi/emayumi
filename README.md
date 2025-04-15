@@ -13,9 +13,9 @@
 
 
 ###  Meus hobbies são: 
-- 📓 Ler <img hight="10" width="20" align="center" src="https://media.tenor.com/FplNzhsEVnoAAAAi/kuromi-sanrio.gif">
-- ✍️ Escrever <img hight="30" width="40" align="center" src="https://media.tenor.com/UaXJBL3zQFMAAAAi/ibunwoo-my-melody.gif">
-- 🎮 Jogos (HSR!!) <img hight="10" width="20" align="center" src="https://media.tenor.com/QXYXNdv9gggAAAAi/emoji-sanrio.gif">
+- Ler <img hight="10" width="20" align="center" src="https://media.tenor.com/FplNzhsEVnoAAAAi/kuromi-sanrio.gif">
+- Escrever <img hight="30" width="40" align="center" src="https://media.tenor.com/UaXJBL3zQFMAAAAi/ibunwoo-my-melody.gif">
+- Jogos (HSR!!) <img hight="10" width="20" align="center" src="https://media.tenor.com/QXYXNdv9gggAAAAi/emoji-sanrio.gif">
 
 
 
@@ -34,5 +34,5 @@
 
 Se quiser entrar em contato comigo, eu só uso essas redes sociais! ;)
 📷 @ellmayumi - Instagram |
-📨 ellenm4ayumi@gmail.com |
+📨 ellenm4ayumi@gmail.com - Gmail |
 <img hight="150" width="220" alt="GIF" align="left" src="https://64.media.tumblr.com/0e8f03db2c558bd432bb85c19c8a3c8e/e8b4119a00483015-28/s400x600/4840035a82b80c4a914c2175582005227c0c144c.gif">
