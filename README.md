@@ -14,14 +14,9 @@
 - <img hight="10" width="20" align="center" src="https://media.tenor.com/ajuUCdkcPqgAAAAi/exclamation-point-ragnarok.gif"> Sociedades, identidades e territórios
 
 ### - Meus hobbies são : 
-- 🎸 Ouvir música
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qugadz6c7p6yjy6wykyn4mtski&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-- 🎸 Assistir filmes <img hight="10" width="20" align="center" src="https://media.tenor.com/YlX9YBz9FXcAAAAi/ellen-ripley-alien.gif">
+- 🎸 Ler <img hight="10" width="20" align="center" src="https://media.tenor.com/YlX9YBz9FXcAAAAi/ellen-ripley-alien.gif">
 - 🎸 Escrever <img hight="30" width="40" align="center" src="https://media.tenor.com/dh1W3uHt_zsAAAAi/emoji-smiley.gif">
-- 🎸 Tocar guitarra <img hight="10" width="20" align="center" src="https://media.tenor.com/biB4OIcEhDcAAAAi/playing-guitar-cat.gif"/>
-- 🎸 Design <img hight="30" width="40" align="center" src="https://media.tenor.com/4sQhFfVmisAAAAAj/microsoft-microsoft-windows.gif">
-- 🎸 Jogos (KOF 2002!!) <img hight="10" width="20" align="center" src="https://media.tenor.com/HAdTDahjyQEAAAAi/yagami.gif">
+- 🎸 Jogos (HSR!!) <img hight="10" width="20" align="center" src="https://media.tenor.com/HAdTDahjyQEAAAAi/yagami.gif">
 
 
 
@@ -31,14 +26,14 @@
 </br>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,pyton)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python)](https://skillicons.dev)
 
-<img hight="250" width="320" alt="GIF" align="center" src="https://i.gifer.com/3qVd.gif">
+<img hight="250" width="320" alt="GIF" align="center" src="https://64.media.tumblr.com/21e7f7dc8d5cd41ad12e489d0c7f25f2/ab9f39c2b7bcbcf5-88/s540x810/9fb9c41d5a82fb513bebae84f742b6a8b2dd52db.gif">
 </br>
 
 # Me contate! 📩 :
 
-Se quiser entrar em contato comigo, eu só uso essas redes sociaiss! s2
-📷 @guilhernmee - Instagram |
-🕊️ @guilheernmee - Twitter (X)
-<img hight="150" width="220" alt="GIF" align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnVpN3p5Z3lncW55b2pyZDk2M21jaGI2NTEyeTBxcXFycDZzNTBxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cjG98gMyj574A/giphy.gif">
+Se quiser entrar em contato comigo, eu só uso essas redes sociais! ;)
+📷 @ellmayumi - Instagram |
+📨 ellenm4ayumi@gmail.com |
+<img hight="150" width="220" alt="GIF" align="left" src="https://64.media.tumblr.com/0e8f03db2c558bd432bb85c19c8a3c8e/e8b4119a00483015-28/s400x600/4840035a82b80c4a914c2175582005227c0c144c.gif">
