@@ -6,17 +6,16 @@
 <img hight="400" width="450" alt="GIF" align="right" src="tumblr_24ca50c8a288bccbbcd5f37007973ba3_3021b8e7_500.gif">
 
 ### - Atualmente, estou aprendendo :
-- <img hight="10" width="20" align="center" src="https://media.tenor.com/uPKBSSYU8BcAAAAj/computer-pixel.gif"> Organização e arquitetura de computadores
-- <img hight="10" width="20" align="center" src="https://media.tenor.com/iRB7vrvhPR4AAAAj/data-code.gif"> Programação de computadores
-- <img hight="10" width="20" align="center" src="https://media.tenor.com/UaBq8N2Z46wAAAAj/add-disc-pc.gif"> Modelagem de negócios e requisitos
-- <img hight="10" width="20" align="center" src="https://media.tenor.com/74nJqMKw4L4AAAAj/earth-internetcore.gif"> Aplicações para internet
-- <img hight="10" width="20" align="center" src="https://media.tenor.com/6MYsXDHVasAAAAAj/traderoomai-stockmarket.gif"> Empreendedorismo
-- <img hight="10" width="20" align="center" src="https://media.tenor.com/ajuUCdkcPqgAAAAi/exclamation-point-ragnarok.gif"> Sociedades, identidades e territórios
+- <img hight="10" width="20" align="center" src="https://media.tenor.com/5k_VZG4gXzEAAAAi/eternal-sailor-moon.gif"> Organização e arquitetura de computadores
+- <img hight="10" width="20" align="center" src="https://media.tenor.com/5k_VZG4gXzEAAAAi/eternal-sailor-moon.gif"> Programação de computadores
+- <img hight="10" width="20" align="center" src="https://media.tenor.com/5k_VZG4gXzEAAAAi/eternal-sailor-moon.gif"> Modelagem de negócios e requisitos
+- <img hight="10" width="20" align="center" src="https://media.tenor.com/5k_VZG4gXzEAAAAi/eternal-sailor-moon.gif"> Aplicações para internet
+
 
 ### - Meus hobbies são : 
-- 🎸 Ler <img hight="10" width="20" align="center" src="https://media.tenor.com/YlX9YBz9FXcAAAAi/ellen-ripley-alien.gif">
-- 🎸 Escrever <img hight="30" width="40" align="center" src="https://media.tenor.com/dh1W3uHt_zsAAAAi/emoji-smiley.gif">
-- 🎸 Jogos (HSR!!) <img hight="10" width="20" align="center" src="https://media.tenor.com/HAdTDahjyQEAAAAi/yagami.gif">
+- 📓 Ler <img hight="10" width="20" align="center" src="https://media.tenor.com/YlX9YBz9FXcAAAAi/ellen-ripley-alien.gif">
+- ✍️ Escrever <img hight="30" width="40" align="center" src="https://media.tenor.com/dh1W3uHt_zsAAAAi/emoji-smiley.gif">
+- 🎮 Jogos (HSR!!) <img hight="10" width="20" align="center" src="https://media.tenor.com/HAdTDahjyQEAAAAi/yagami.gif">
 
 
 
