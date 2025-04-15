@@ -3,7 +3,7 @@
 ### Tenho 22 anos e estou cursando o 1º semestre de Análise e desenvolvimento de sistemas.
 
 
-<img hight="400" width="450" alt="GIF" align="right" src="https://64.media.tumblr.com/24ca50c8a288bccbbcd5f37007973ba3/039bdf67c67c1aec-cc/s500x750/3021b8e79d48e808741ab84d7b857e2d37f5110c.gif">
+<img hight="400" width="450" alt="GIF" align="right" src="tumblr_24ca50c8a288bccbbcd5f37007973ba3_3021b8e7_500.gif">
 
 ### - Atualmente, estou aprendendo :
 - <img hight="10" width="20" align="center" src="https://media.tenor.com/uPKBSSYU8BcAAAAj/computer-pixel.gif"> Organização e arquitetura de computadores
