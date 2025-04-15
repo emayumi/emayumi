@@ -1,9 +1,9 @@
-# Oi, eu sou o Guilherme!
+# Oi, eu sou a Ellen Mayumi!
 
-### Tenho 18 anos e estou cursando Análise e Desenvolvimento de Sistemas na Universidade da Cidade de São Paulo (UNICID), atualmente no 1º semestre de um curso de 4 semestres. Minha paixão por tecnologia começou cedo, quando descobri como jogos, consoles e computadores funcionavam. Em 2020, tive meu primeiro contato com HTML ao personalizar meu perfil no site SpaceHey, o que despertou meu interesse por programação. Também fiz cursos de informática, e hoje minhas linguagens favoritas são Python e HTML. Estou sempre explorando novos conhecimentos para crescer na área de tecnologia!
+### Tenho 22 anos e estou cursando o 1º semestre de Análise e desenvolvimento de sistemas.
 
 
-<img hight="400" width="450" alt="GIF" align="right" src="tumblr_5e2f9129ecc89fc1a9eeec549aaaa812_17dabf3b_500.gif">
+<img hight="400" width="450" alt="GIF" align="right" src="https://64.media.tumblr.com/24ca50c8a288bccbbcd5f37007973ba3/039bdf67c67c1aec-cc/s500x750/3021b8e79d48e808741ab84d7b857e2d37f5110c.gif">
 
 ### - Atualmente, estou aprendendo :
 - <img hight="10" width="20" align="center" src="https://media.tenor.com/uPKBSSYU8BcAAAAj/computer-pixel.gif"> Organização e arquitetura de computadores
