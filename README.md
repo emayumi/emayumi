@@ -1,21 +1,21 @@
 # Oi, eu sou a Ellen Mayumi!
 
-### Tenho 22 anos e estou cursando o 1º semestre de Análise e desenvolvimento de sistemas.
+### Tenho 22 anos e estou cursando o 2º semestre de Análise e desenvolvimento de sistemas.
 
 
 <img hight="400" width="450" alt="GIF" align="right" src="tumblr_24ca50c8a288bccbbcd5f37007973ba3_3021b8e7_500.gif">
 
 ###  Atualmente, estou aprendendo:
-- <img hight="10" width="20" align="center" src="https://media.tenor.com/5k_VZG4gXzEAAAAi/eternal-sailor-moon.gif"> Organização e arquitetura de computadores
-- <img hight="10" width="20" align="center" src="https://media.tenor.com/5k_VZG4gXzEAAAAi/eternal-sailor-moon.gif"> Programação de computadores
-- <img hight="10" width="20" align="center" src="https://media.tenor.com/5k_VZG4gXzEAAAAi/eternal-sailor-moon.gif"> Modelagem de negócios e requisitos
-- <img hight="10" width="20" align="center" src="https://media.tenor.com/5k_VZG4gXzEAAAAi/eternal-sailor-moon.gif"> Aplicações para internet
+- <img hight="10" width="20" align="center" src="https://media.tenor.com/5k_VZG4gXzEAAAAi/eternal-sailor-moon.gif"> Técnicas de desenvolvimento de algoritmos
+- <img hight="10" width="20" align="center" src="https://media.tenor.com/5k_VZG4gXzEAAAAi/eternal-sailor-moon.gif"> Programação web
+- <img hight="10" width="20" align="center" src="https://media.tenor.com/5k_VZG4gXzEAAAAi/eternal-sailor-moon.gif"> Engenharia de software
+- <img hight="10" width="20" align="center" src="https://media.tenor.com/5k_VZG4gXzEAAAAi/eternal-sailor-moon.gif"> Sistemas operacionais
 
 
 ###  Meus hobbies são: 
 - Ler <img hight="10" width="20" align="center" src="https://media.tenor.com/FplNzhsEVnoAAAAi/kuromi-sanrio.gif">
 - Escrever <img hight="30" width="40" align="center" src="https://media.tenor.com/UaXJBL3zQFMAAAAi/ibunwoo-my-melody.gif">
-- Jogos (HSR!!) <img hight="10" width="20" align="center" src="https://media.tenor.com/QXYXNdv9gggAAAAi/emoji-sanrio.gif">
+- Jogos (HSR!! & LoveAndDeepspace <33) <img hight="10" width="20" align="center" src="https://media.tenor.com/QXYXNdv9gggAAAAi/emoji-sanrio.gif">
 
 
 
