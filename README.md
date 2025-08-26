@@ -27,7 +27,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,python)](https://skillicons.dev)
 
-<img hight="250" width="320" alt="GIF" align="center" src="https://64.media.tumblr.com/e8fce65460053a76358266b2776f627f/b6babec91d8ddbd7-3e/s540x810/49852346edb902b03f19af355e8ac6703b1c8f4c.gif">
+<img hight="250" width="320" alt="GIF" align="center" src="https://shre.ink/tpOF">
 </br>
 
 # Me contate! 📩:
