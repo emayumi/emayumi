@@ -33,5 +33,5 @@
 # Me contate! 📩:
 
 Se quiser entrar em contato comigo, eu só uso essas redes sociais! ;)
-📷 @my6mii - Instagram | 📨 ellenm4ayumi@gmail.com - Gmail |
+📷 @w2umi - Instagram | 📨 ellenm4ayumi@gmail.com - Gmail |
 <img hight="150" width="220" alt="GIF" align="left" src="https://64.media.tumblr.com/0e8f03db2c558bd432bb85c19c8a3c8e/e8b4119a00483015-28/s400x600/4840035a82b80c4a914c2175582005227c0c144c.gif">
