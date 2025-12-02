@@ -14,17 +14,17 @@ Estou interessada na área de banco de dados e também gosto bastante de design 
 
 
 
-# Minhas linguagens e ferramentas:
+# Minhas ferramentas:
 
 </br>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,mysql,visualstudiocode)](https://skillicons.dev)
 
 
 </br>
 
 # Me contate! 📩:
 
-Se quiser entrar em contato comigo, eu só uso essas redes sociais! ;)
-📷 @moonymiu - Instagram | 📨 ellenm4ayumi@gmail.com - Gmail |
+Se quiser entrar em contato comigo, eu só uso essas redes sociais!
+     📷 @moonymiu - Instagram | 📨 ellenm4ayumi@gmail.com - Gmail |
