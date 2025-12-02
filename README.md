@@ -19,8 +19,7 @@ Estou interessada na área de banco de dados e também gosto bastante de design 
 </br>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,mysql,<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/1a2ae519-b16a-490e-acd2-4178dbddc880" />
-)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,mysql,studiocode)](https://skillicons.dev)
 
 
 </br>
