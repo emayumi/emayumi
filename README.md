@@ -9,13 +9,7 @@
 - <img hight="10" width="20" align="center" src="https://media.tenor.com/5k_VZG4gXzEAAAAi/eternal-sailor-moon.gif"> Técnicas de desenvolvimento de algoritmos
 - <img hight="10" width="20" align="center" src="https://media.tenor.com/5k_VZG4gXzEAAAAi/eternal-sailor-moon.gif"> Programação web
 - <img hight="10" width="20" align="center" src="https://media.tenor.com/5k_VZG4gXzEAAAAi/eternal-sailor-moon.gif"> Engenharia de software
-- <img hight="10" width="20" align="center" src="https://media.tenor.com/5k_VZG4gXzEAAAAi/eternal-sailor-moon.gif"> Sistemas operacionais
-
-
-###  Meus hobbies são: 
-- Ler <img hight="10" width="20" align="center" src="https://media.tenor.com/FplNzhsEVnoAAAAi/kuromi-sanrio.gif">
-- Escrever <img hight="30" width="40" align="center" src="https://media.tenor.com/UaXJBL3zQFMAAAAi/ibunwoo-my-melody.gif">
-- Jogos (HSR!! & LoveAndDeepspace <33) <img hight="10" width="20" align="center" src="https://media.tenor.com/QXYXNdv9gggAAAAi/emoji-sanrio.gif">
+- <img hight="10" width="20" align="center" src="https://media.tenor.com/5k_VZG4gXzEAAAAi/eternal-sailor-moon.gif"> Sistemas operacionai
 
 
 
