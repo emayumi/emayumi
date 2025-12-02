@@ -1,7 +1,7 @@
 # Oi, eu sou a Ellen Mayumi!
 
 ### Tenho 22 anos e estou cursando o 2º semestre de Análise e desenvolvimento de sistemas.
-Estou interessada na área de banco de dados e gtambém osto bastante de design :)
+Estou interessada na área de banco de dados e também gosto bastante de design :)
 
 
 
