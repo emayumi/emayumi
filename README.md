@@ -1,5 +1,5 @@
 <div>
-<img align="right" height = "733" width="450" src="https://i.pinimg.com/736x/85/a7/a8/85a7a885e46376033e8b5f763a6630fd.jpg"> 
+<img align="right" height="733" width="450" src="aboutme.jpeg">
 Cursando Análise e desenvolvimento de sistemas! 
 
 ---
