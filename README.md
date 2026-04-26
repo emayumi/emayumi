@@ -1,13 +1,13 @@
 <div>
 <img align="right" height = "733" width="450" src="abtme.jpg"> 
-i
+Cursando Análise e desenvolvimento de sistemas! 
 
 ---
 
 ### 🌙 Between Classes and Dreams  
 
 
-° Banco de dados
+° Banco de dados, Mysql
 ° Programação orientada a objetos
 
 </div>
