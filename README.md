@@ -57,8 +57,8 @@ i
 
 ## ✉️ Write Me
 
-<div align="center"> (aonde ta seu email, pode por seu email, se quiser, da pra por o linkedin tbm!)
+<div align="center"> 
  
-[![✉](https://img.shields.io/badge/Gmail-seuemail@gmail.com-e91e8c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:ellenm4ayumi@gmail.com)
+[![✉](https://img.shields.io/badge/Gmail-ellenm4ayumi@gmail.com-e91e8c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:ellenm4ayumi@gmail.com)
 
 </div>
