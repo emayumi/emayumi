@@ -8,6 +8,7 @@ Cursando Análise e desenvolvimento de sistemas!
 
 
 ° Banco de dados, Mysql
+</p>
 ° Programação orientada a objetos
 
 </div>
