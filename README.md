@@ -1,5 +1,5 @@
 <div>
-<img align="right" height = "733" width="450" src="<img width="735" height="245" alt="image" src="<img width="735" height="245" alt="image" src="https://github.com/user-attachments/assets/376d04f3-3dda-4025-97ba-93e9b8789ecb.jpg"> 
+<img align="right" height = "733" width="450" src="<img width="735" height="245" alt="image" src="<img width="735" height="245" alt="image" src="https://github.com/user-attachments/assets/376d04f3-3dda-4025-97ba-93e9b8789ecb.jpeg"> 
 Cursando Análise e desenvolvimento de sistemas! 
 
 ---
