@@ -1,6 +1,5 @@
 <div>
-<img align="right" height = "733" width="450" src="abtme.jpg"> (pra pegar a imagem, vc upa ela dentro do repositorio aboutme!)
- 
+<img align="right" height = "733" width="450" src="abtme.jpg"> 
 i
 
 ---
